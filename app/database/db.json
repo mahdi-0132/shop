@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://img.alicdn.com/imgextra/i2/2838134059/O1CN01es1RPk1fr4iP8Qhor_!!2838134059.jpg",
+      "title": "Jacket1",
+      "description": " Warm and comfty for daily use",
+      "price": 450000000
+    },
+    {
+      "id": "2",
+      "image": "https://image.hm.com/assets/hm/33/a5/33a5a55090c974e6b0d78f7f7f84307efff7c2e8.jpg?imwidth=2160",
+      "title": "Jacket2",
+      "description": " Warm and comfty for daily use",
+      "price": 150000000
+    },
+    {
+      "id": "3",
+      "image": "https://image.hm.com/content/dam/global_campaigns/season_02/men/start-page-assets/w45/MS42E7-4x5.jpg?imwidth=4800",
+      "title": "Jacket3",
+      "description": " Warm and comfty for daily use",
+      "price": 70000000
+    },
+    {
+      "id": "4",
+      "image": "https://static.zara.net/assets/public/d30a/8d94/1f5447e1bf1e/e7d7af4f544b/05788203528-p/05788203528-p.jpg?ts=1753719464214&w=744&f=auto",
+      "title": "Jacket4",
+      "description": " Warm and comfty for daily use",
+      "price": 783000000
+    },
+    {
+      "id": "5",
+      "image": "https://www.apetogentleman.com/wp-content/uploads/2024/11/WinterFashionGuideMens53.jpg",
+      "title": "Jacket5",
+      "description": " Warm and comfty for daily use",
+      "price": 874000000
+    },
+    {
+      "id": "6",
+      "image": "https://www.apetogentleman.com/wp-content/uploads/2024/11/WinterFashionGuideMens46.jpg",
+      "title": "Jacket6",
+      "description": " Warm and comfty for daily use",
+      "price": 2340000000
+    },
+    {
+      "id": "7",
+      "image": "https://i.pinimg.com/736x/14/f1/d2/14f1d20ced53568b808e5e73dd818cf1.jpg",
+      "title": "Jacket7",
+      "description": " Warm and comfty for daily use",
+      "price": 76500000
+    },
+    {
+      "id": "8",
+      "image": "https://sharpmagazine.com/wp-content/uploads/2024/01/Hermes-Runway-1-24-17.jpg",
+      "title": "Jacket8",
+      "description": " Warm and comfty for daily use",
+      "price": 959000000
+    },
+    {
+      "id": "9",
+      "image": "https://regardingluxury.com/wp-content/uploads/2021/11/mens-fashion-street-style-2021-3.jpeg",
+      "title": "Jacket9",
+      "description": " Warm and comfty for daily use",
+      "price": 299000000
+    },
+    {
+      "id": "10",
+      "image": "https://regardingluxury.com/wp-content/uploads/2021/11/mens-fashion-street-style-2021-1.jpeg",
+      "title": "Jacket10",
+      "description": " Warm and comfty for daily use",
+      "price": 278000000
+    },
+    {
+      "id": "630",
+      "image": "https://themomedit.com/wp-content/uploads/2022/02/backcountry-end-of-season-semi-annual-sale-columbia-heavenly-long-jacket-sorel-sport-boots-backcountry-fleece-tight-vafa-photo-2-2-scaled.jpg",
+      "title": "Puliver1",
+      "description": "Warm and it's the best choice",
+      "price": "2000000"
+    }
+ 
+  ],
+  "discount": [
+    {
+      "id": "1",
+      "code": "OFF10",
+      "precntage": 10
+    },
+    {
+      "id": "1",
+      "code": "OFF20",
+      "precntage": 20
+    },
+    {
+      "id": "1",
+      "code": "SAVE30",
+      "precntage": 30
+    }
+  ]
+}
